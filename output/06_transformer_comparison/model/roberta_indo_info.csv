@@ -1,0 +1,2 @@
+model_id,name,type,accuracy,f1_score
+w11wo/indonesian-roberta-base-sentiment-classifier,RoBERTa Indo,pre-trained,0.6436015006252606,0.26105334347789333

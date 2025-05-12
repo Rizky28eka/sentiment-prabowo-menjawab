@@ -1,0 +1,2 @@
+total_models_evaluated,best_model,best_accuracy,training_date,dataset_size
+5,Gemini,1.0,2025-05-11,"{'training': 5597, 'testing': 2399, 'total': 7996}"
